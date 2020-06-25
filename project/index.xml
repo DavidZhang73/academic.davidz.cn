@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Academic-DavidZ</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CopyRight © DavidZ</copyright><lastBuildDate>Thu, 25 Jun 2020 02:23:04 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Image Caption Generator</title>
+      <link>/project/image-caption-generator/</link>
+      <pubDate>Thu, 25 Jun 2020 02:23:04 +0800</pubDate>
+      <guid>/project/image-caption-generator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plugin Manager</title>
+      <link>/project/plugin-manager/</link>
+      <pubDate>Thu, 25 Jun 2020 02:21:29 +0800</pubDate>
+      <guid>/project/plugin-manager/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COMP2310 Assignment 1(2019)</title>
+      <link>/project/comp2310-assignment-1/</link>
+      <pubDate>Thu, 25 Jun 2020 02:16:52 +0800</pubDate>
+      <guid>/project/comp2310-assignment-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>File Collector</title>
+      <link>/project/file-collector/</link>
+      <pubDate>Thu, 25 Jun 2020 02:12:47 +0800</pubDate>
+      <guid>/project/file-collector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weihai Construction Consulting System</title>
+      <link>/project/ccs/</link>
+      <pubDate>Thu, 25 Jun 2020 02:07:13 +0800</pubDate>
+      <guid>/project/ccs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>School Booking System</title>
+      <link>/project/booking-system/</link>
+      <pubDate>Thu, 25 Jun 2020 02:06:13 +0800</pubDate>
+      <guid>/project/booking-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual Judge</title>
+      <link>/project/virtual-judge/</link>
+      <pubDate>Thu, 25 Jun 2020 01:55:20 +0800</pubDate>
+      <guid>/project/virtual-judge/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
