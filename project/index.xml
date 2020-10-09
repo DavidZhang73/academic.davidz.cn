@@ -5,12 +5,20 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CopyRight © DavidZ</copyright><lastBuildDate>Thu, 25 Jun 2020 02:23:04 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CopyRight © DavidZ</copyright><lastBuildDate>Fri, 09 Oct 2020 14:39:15 +0800</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title>Vidat</title>
+      <link>/project/vidat/</link>
+      <pubDate>Fri, 09 Oct 2020 14:39:15 +0800</pubDate>
+      <guid>/project/vidat/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Image Caption Generator</title>
